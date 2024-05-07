@@ -148,8 +148,6 @@ desired effect
                     <tr>
                       <th rowspan="2" style="text-align: center;">SCANNED DOCUMENTS</th>
                       <th rowspan="2" style="text-align: center;">DATE RETURNED</th>
-                      <th rowspan="2" style="text-align: center;">DATE RECEIVED</th>
-                      <th rowspan="2" style="text-align: center;">DATE RECORDED</th>
                       <th rowspan="2" style="text-align: center; white-space: nowrap;">ITEM #</th>
                       <th rowspan="2" style="text-align: center; white-space: nowrap;">PRS #</th>
                       <th rowspan="2" style="text-align: center;">ARTICLE</th>
